@@ -1,5 +1,5 @@
 {
-  "name": "Copy of CyberSafe: Teen Edition",
+  "name": "CyberSafe: Teen Edition",
   "description": "A gamified cyber security hub designed for teenagers to master online safety through AI powered scam detection, password audits, and interactive learning.",
   "requestFramePermissions": [
     "camera"
